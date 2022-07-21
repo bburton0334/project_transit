@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="project_transit.views.MainPage"
+             BackgroundColor="LightGray">
+    <ContentPage.Content>
+        <StackLayout Padding="25">
+            <Label x:Name="lblTitle" Text="BASIC PROTOTYPE" FontSize="Title" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" />
+            <Label x:Name="lblMainInfo" Text="This is a short prototype for database access and other things." HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="lblLogin" Text="Please enter your username." FontSize="Medium" HorizontalOptions="CenterAndExpand" Padding="20" FontAttributes="Bold"/>
+            <Entry x:Name="entryUsername" Placeholder="username" FontSize="Medium" />
+            <Label x:Name="lblLoginPassword" Text="Please enter your password." FontSize="Medium" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" Padding="20"/>
+            <Entry x:Name="entryPassword" Placeholder="password" IsPassword="True" FontSize="Medium"/>
+            <Button Clicked="btnEnter_Clicked" x:Name="btnEnter" Text="Enter" FontSize="Medium" BackgroundColor="Gray" TextColor="White" Margin="0,50,0,0" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

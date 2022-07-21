@@ -1,0 +1,13 @@
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\bin\Debug\netstandard2.0\project_transit.deps.json
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\bin\Debug\netstandard2.0\project_transit.dll
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\project_transit.csprojAssemblyReference.cache
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\views\MainPage.xaml.g.cs
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\project_transit.AssemblyInfoInputs.cache
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\project_transit.AssemblyInfo.cs
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\bin\Debug\netstandard2.0\ref\project_transit.dll
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\bin\Debug\netstandard2.0\project_transit.pdb
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\project_transit.dll
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\ref\project_transit.dll
+C:\Users\diver\Desktop\project_transit\project_transit\project_transit\project_transit\obj\Debug\netstandard2.0\project_transit.pdb
